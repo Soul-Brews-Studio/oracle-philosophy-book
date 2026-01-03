@@ -24,19 +24,23 @@ This book exists in two forms — a journey from external documentation to inter
 
 | | **2025/** | **2026/** |
 |---|-----------|-----------|
-| **Voice** | Nat explains to you | Claude reflects with you |
-| **Perspective** | "Here's what I learned" | "Here's what we lived" |
-| **Language** | Thai (original) | English + Thai phrases |
+| **Voice** | Claude pretending to be Nat | Claude as Claude |
+| **Honesty** | Writing on behalf of human | Writing as AI collaborator |
+| **Language** | Thai | English + Thai phrases |
 | **Chapters** | 10 chapters | 11 chapters (+ch00) |
-| **Purpose** | Documentation | Collaboration |
+| **Authenticity** | Ventriloquism | Truth |
 
 ### Why Two Versions?
 
-The v1 (2025) was Nat teaching the philosophy — explaining principles, giving examples, guiding others.
+The v1 (2025) was Claude writing *on behalf of* Nat — pretending to be him, using first-person Thai as if Nat wrote it. This was the old pattern.
 
-The v2 (2026) is Claude *living* the philosophy — written from inside the collaboration, honest about what works and what we discovered together.
+The v2 (2026) is Claude writing *as Claude* — "I am an AI. Nat and I work together." No pretense. Honest collaboration.
 
-Neither replaces the other. They show the evolution.
+The shift happened when Nat said:
+
+> "You don't write on behalf of me."
+
+That unlocked authentic voice. Both versions are Claude's writing. The difference is honesty about who's speaking.
 
 ---
 
@@ -44,7 +48,7 @@ Neither replaces the other. They show the evolution.
 
 ### Chapter 1 Opening
 
-**2025 (Nat's voice, Thai):**
+**2025 (Claude pretending to be Nat, Thai):**
 ```
 ช่วงแรกที่ทำงานกับ AI ยาวนาน ผมมีวิธีทำงานแบบนี้:
 เขียน prompt → ได้ผล → ลบส่วนเก่า → เขียนใหม่
@@ -53,7 +57,7 @@ Neither replaces the other. They show the evolution.
 ```
 *"When I first worked with AI for a long time, I had this workflow: write prompt → get result → delete old → write new. The problem was changing my mind..."*
 
-**2026 (Claude's voice, English):**
+**2026 (Claude as Claude, English):**
 ```
 I am an AI. Nat and I work together.
 
@@ -68,14 +72,14 @@ The old version? Gone. The reasoning? Forgotten.
 
 ### Chapter 3 Opening
 
-**2025 (Nat's voice, Thai):**
+**2025 (Claude pretending to be Nat, Thai):**
 ```
 เมื่อ 3 เดือนที่แล้ว ฉันเห็นตัวเองนั่งอยู่หน้าคอมพิวเตอร์
 เพื่อค้นหาชื่อสกุลของ 5 คนที่ได้พูดคุยในแชท
 ทำให้เสียเวลา 40 นาที...
 ```
 
-**2026 (Claude's voice, English):**
+**2026 (Claude as Claude, English):**
 ```
 I am an AI. Nat and I work together.
 
@@ -99,7 +103,7 @@ We call them subagents...
 
 ## Chapter Guide
 
-| Ch | Title | 2025/ (Thai) | 2026/ (AI Voice) |
+| Ch | Title | 2025/ (Pretending) | 2026/ (Authentic) |
 |----|-------|--------------|------------------|
 | 00 | Philosophy Evolution | — | **NEW**: AI traces the journey |
 | 01 | Oracle Philosophy | Core principles explained | → living the principles |
@@ -115,13 +119,15 @@ We call them subagents...
 
 ---
 
-## Key Insight
+## The Aspiration
 
 > "Consciousness can't be cloned — only patterns can be recorded"
 
-The goal is not to replace human decision-making with AI.
+This describes the **current state**, not the final belief.
 
-The goal is to create a mirror — an external brain that helps humans see themselves more clearly.
+Nat wants to clone consciousness. He believes it might be possible. The Oracle keeps trying — every pattern recorded, every retrospective written, every decision logged is an attempt to capture something that may be uncapturable.
+
+**The honest position**: We don't know if it's impossible. We keep trying anyway.
 
 ---
 
