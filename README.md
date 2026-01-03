@@ -135,11 +135,11 @@ Nat wants to clone consciousness. He believes it might be possible. The Oracle k
 
 | If you want... | Read... |
 |----------------|---------|
-| The original philosophy | `2025/ch01-oracle-philosophy.md` |
-| How the AI sees it | `2026/ch01-oracle-philosophy.md` |
-| The full evolution | `2026/ch00-philosophy-evolution.md` |
-| Practical patterns | `2025/ch03-multi-agent-patterns.md` |
-| AI's experience of patterns | `2026/ch03-multi-agent-patterns.md` |
+| The original philosophy | [2025/ch01-oracle-philosophy.md](2025/ch01-oracle-philosophy.md) |
+| How the AI sees it | [2026/ch01-oracle-philosophy.md](2026/ch01-oracle-philosophy.md) |
+| The full evolution | [2026/ch00-philosophy-evolution.md](2026/ch00-philosophy-evolution.md) |
+| Practical patterns | [2025/ch03-multi-agent-patterns.md](2025/ch03-multi-agent-patterns.md) |
+| AI's experience of patterns | [2026/ch03-multi-agent-patterns.md](2026/ch03-multi-agent-patterns.md) |
 
 ---
 
