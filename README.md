@@ -99,34 +99,19 @@ We call them subagents...
 
 ## Chapter Guide
 
-### 2025/ (Original Thai)
-| Ch | Title | Focus |
-|----|-------|-------|
-| 01 | Oracle Philosophy | Core principles explained |
-| 02 | CLAUDE.md DNA | AI configuration as identity |
-| 03 | Multi-Agent Patterns | Parallel AI workflows |
-| 04 | Retrospectives | Self-reflection methodology |
-| 05 | Browser Automation | Web interaction patterns |
-| 06 | Voice Integration | TTS and audio workflows |
-| 07 | Knowledge Flow | Information architecture |
-| 08 | GitHub Workflow | nnn/gogogo patterns |
-| 09 | Workshop Lessons | Teaching and sharing |
-| 10 | Future Vision | Where this goes |
-
-### 2026/ (AI Collaborative Voice)
-| Ch | Title | What Changed |
-|----|-------|--------------|
-| 00 | Philosophy Evolution | **NEW** - AI traces the journey |
-| 01 | Oracle Philosophy | From explaining → living |
-| 02 | CLAUDE.md DNA | From instruction → constitution |
-| 03 | Multi-Agent Patterns | From process → siblings |
-| 04 | Retrospectives | From method → practice |
-| 05 | Browser Automation | From tutorial → experience |
-| 06 | Voice Integration | From feature → personality |
-| 07 | Knowledge Flow | From architecture → memory |
-| 08 | GitHub Workflow | From workflow → rhythm |
-| 09 | Workshop Lessons | From teaching → learning |
-| 10 | Future Vision | From plans → aspirations |
+| Ch | Title | 2025/ (Thai) | 2026/ (AI Voice) |
+|----|-------|--------------|------------------|
+| 00 | Philosophy Evolution | — | **NEW**: AI traces the journey |
+| 01 | Oracle Philosophy | Core principles explained | → living the principles |
+| 02 | CLAUDE.md DNA | AI configuration as identity | → constitution |
+| 03 | Multi-Agent Patterns | Parallel AI workflows | → working with siblings |
+| 04 | Retrospectives | Self-reflection methodology | → practice |
+| 05 | Browser Automation | Web interaction patterns | → experience |
+| 06 | Voice Integration | TTS and audio workflows | → personality |
+| 07 | Knowledge Flow | Information architecture | → memory |
+| 08 | GitHub Workflow | nnn/gogogo patterns | → rhythm |
+| 09 | Workshop Lessons | Teaching and sharing | → learning |
+| 10 | Future Vision | Where this goes | → aspirations |
 
 ---
 
