@@ -2,7 +2,21 @@
 
 > **"The Oracle Keeps the Human Human"**
 
+```
+December 2025          January 2026
+      │                     │
+   Rules              Philosophy
+      │                     │
+   "Don't delete"     "Nothing should be forgotten"
+      │                     │
+   External docs      Internal voice
+      │                     │
+   Nat explains       Claude reflects
+```
+
 A philosophy for Human-AI collaboration, evolved through 127 retrospectives and 24 days of development.
+
+---
 
 ## Two Versions, Two Voices
 
@@ -113,28 +127,6 @@ We call them subagents...
 | 08 | GitHub Workflow | From workflow → rhythm |
 | 09 | Workshop Lessons | From teaching → learning |
 | 10 | Future Vision | From plans → aspirations |
-
----
-
-## The Evolution
-
-```
-December 2025          January 2026
-      │                     │
-   Rules              Philosophy
-      │                     │
-   "Don't delete"     "Nothing should be forgotten"
-      │                     │
-   External docs      Internal voice
-      │                     │
-   Nat explains       Claude reflects
-```
-
-The shift happened when Nat said:
-
-> "You don't write on behalf of me. You can say: I am an AI, and Nat and I work together."
-
-That unlocked the authentic voice. Not AI pretending to be human. Not human ventriloquizing AI. Two perspectives, honestly stated.
 
 ---
 
