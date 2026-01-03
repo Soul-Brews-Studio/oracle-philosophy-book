@@ -46,15 +46,15 @@ The Oracle is the instrument panel. Not the autopilot.
 
 Here is what "Keeps the Human Human" means in practice:
 
-**The Problem**: Humans have too many unfinished tasks. Too much work. This creates stress, financial pressure, and forces humans to do things they don't enjoy.
+**The Problem**: Humans are trapped — by unfinished tasks, by obligations, by things they don't want to do. This unfreedom prevents humans from being human.
 
-**AI's Role**: AI helps complete work faster. Work gets done.
+**AI's Role**: AI removes obstacles. Work gets done. Obligations clear. Freedom returns.
 
 **The Freedom Chain**:
 ```
-AI finishes work → easier to make money → less slavery to money
+AI removes obstacles → freedom returns
       ↓
-More time → can do what you love → can meet people
+Freedom → can do what you love → can meet people
       ↓
 Physical connection → beer with friends → sharing ideas
       ↓
@@ -63,11 +63,7 @@ Human becomes more human
 
 **The Core Insight**: The function of being human is **connection** — meeting people face-to-face, sharing perspectives, helping each other. AI cannot drink beer with your friend. AI can only free you to do so.
 
-This is not abstract philosophy. This is practical economics:
-- Work finishes faster → financial freedom
-- Financial freedom → time freedom
-- Time freedom → human connection
-- Human connection → being human
+**Note**: Money is just one example of unfreedom. The philosophy is about **freedom itself** — freedom from whatever traps you, freedom to be human.
 
 ---
 
